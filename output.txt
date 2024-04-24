@@ -1,0 +1,80 @@
+Before sort: 
+Name of kredit: name100
+Sum of kredit: 1000
+Type of valuta: type1
+Stavka: 10%
+
+Name of kredit: name2
+Sum of kredit: 2000
+Type of valuta: type2
+Stavka: 20%
+
+Name of kredit: name3
+Sum of kredit: 3000
+Type of valuta: type3
+Stavka: 5%
+
+After sort
+Name of kredit: name3
+Sum of kredit: 3000
+Type of valuta: type3
+Stavka: 5%
+
+Name of kredit: name100
+Sum of kredit: 1000
+Type of valuta: type1
+Stavka: 10%
+
+Name of kredit: name2
+Sum of kredit: 2000
+Type of valuta: type2
+Stavka: 20%
+
+Vector from list: 
+Name of kredit: name3
+Sum of kredit: 3000
+Type of valuta: type3
+Stavka: 5%
+
+Name of kredit: name100
+Sum of kredit: 1000
+Type of valuta: type1
+Stavka: 10%
+
+Name of kredit: name2
+Sum of kredit: 2000
+Type of valuta: type2
+Stavka: 20%
+
+Elements from set: 
+Name of kredit: name3
+Sum of kredit: 3000
+Type of valuta: type3
+Stavka: 5%
+
+Name of kredit: name100
+Sum of kredit: 1000
+Type of valuta: type1
+Stavka: 10%
+
+Name of kredit: name2
+Sum of kredit: 2000
+Type of valuta: type2
+Stavka: 20%
+
+Elements from unordered set: 
+Name of kredit: name100
+Sum of kredit: 1000
+Type of valuta: type1
+Stavka: 10%
+
+Name of kredit: name2
+Sum of kredit: 2000
+Type of valuta: type2
+Stavka: 20%
+
+Name of kredit: name3
+Sum of kredit: 3000
+Type of valuta: type3
+Stavka: 5%
+
